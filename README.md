@@ -18,6 +18,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=danielgustavo&show_icons=true&theme=dracula" alt="danielgustavo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgustavo&layout=compact&theme=dracula" alt="danielgustavo's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=danielgustavo&show_icons=true&theme=aura" alt="danielgustavo's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgustavo&layout=compact&theme=aura" alt="danielgustavo's most languages"/>
 </p>
