@@ -21,3 +21,9 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=danielgustavo&show_icons=true&theme=aura" alt="danielgustavo's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgustavo&layout=compact&theme=aura" alt="danielgustavo's most languages"/>
 </p>
+
+## 👨‍🦱 Social Links
+
+<a href="https://www.linkedin.com/in/daniel-gustavo-93a113217/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
