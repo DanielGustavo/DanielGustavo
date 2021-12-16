@@ -25,5 +25,5 @@
 ## 👨‍🦱 Social Links
 
 <a href="https://www.linkedin.com/in/daniel-gustavo-93a113217/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Daniel%20Gustavo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
