@@ -1,7 +1,7 @@
 # Hi 👋, I'm Daniel Gustavo
 
 - 💬 Ask me about **JavaScript**, **HTML**, **CSS**, **SQL**, **Node.JS**, **TypeScript**
-- 📫 How to reach me: danielgustavo5205@gmail.com
+- 📫 How to reach me: danielgustavodev@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
 
